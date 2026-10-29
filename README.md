@@ -1,4 +1,4 @@
-# berry--e-commerce-backend# Berry Dashboard & E-Commerce Web Submission
+# berry--e-commerce-backend # Berry Dashboard & E-Commerce Web Submission
 
 This repository contains the integrated Node.js/Express backend for both the **Berry Dashboard** and **E-Commerce Web** projects. The application utilizes an in-memory MongoDB instance configured to automatically seed test data upon startup.
 
